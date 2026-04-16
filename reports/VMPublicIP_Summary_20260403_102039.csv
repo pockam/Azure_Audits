@@ -1,0 +1,4 @@
+"SubscriptionName";"SubscriptionId";"TotalVMsExposed";"StaticIPs";"DynamicIPs";"WithNSG";"WithoutNSG";"AffectedRGCount";"AffectedRGs";"VMNames";"AuditDate"
+"DK Storage Azure Entreprise";"d66f2ffb-7a65-449e-8c4c-5245b1508366";"1";"0";"1";"1";"0";"1";"ServiceApplication-CollabIndex";"SA-CollabIndex";"2026-04-03 10:19:45"
+"FR2-LOGS-ANALYTICS";"aeaaa74d-839b-4e94-9a20-fd2ec8421e08";"2";"0";"2";"2";"0";"1";"gr_training_website";"monaco | stgermain";"2026-04-03 10:19:49"
+"GB Storage Azure Entreprise";"a1f0733f-9662-4d8a-a0c2-b1a1050d6e3a";"2";"0";"0";"2";"0";"1";"gr_training_website";"monaco | stgermain";"2026-04-03 10:19:50"
